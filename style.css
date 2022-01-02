@@ -211,6 +211,28 @@ align-items: center;
 padding: 10px;
 margin:10px;
  } 
-.headings1{
-     text-align: center;
+.input{
+     padding: 10px;
+margin: 15px;
+width: 50%;
+border: none;
+outline: none;
  }
+ .msg{
+     width: 20%;
+     padding: 10px;
+     margin: 15px;
+     border: none;
+     outline: none;
+    }
+ #send{
+     padding: 15px;
+width: 10%;
+margin: 20px;
+
+ }
+ #send:hover{
+     cursor: pointer;
+     box-shadow: 0 0 10px white;
+ }
+ 
