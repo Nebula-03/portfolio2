@@ -5,7 +5,7 @@
     font-size: 1.7rem;
 }
 .headings1{
-    margin-right: 10px;
+    padding-right: 50px;
 }
 #pic img{
     width: 300px;
@@ -26,7 +26,12 @@
     width: 55%;
 }
 #send{
-    width: 50%;
+    width: 40%;
 }
+.projects{
+    width:20%;
+}
+
+
 
 
