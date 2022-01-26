@@ -342,7 +342,8 @@ margin: 20px;
      align-items: center;
 box-sizing: border-box;
 border: 2px solid ;
-background:linear-gradient(rgb(235, 111, 235),rgb(146, 63, 146));
+background:linear-gradient(rgb(119, 194, 238),rgb(27, 94, 156));
+
  }
  .footer:hover{
      box-shadow: 0 0 10px black, 0 0 15px black;
