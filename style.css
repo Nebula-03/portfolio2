@@ -342,11 +342,11 @@ margin: 20px;
      align-items: center;
 box-sizing: border-box;
 border: 2px solid ;
-background:linear-gradient(rgb(119, 194, 238),rgb(27, 94, 156));
+background:linear-gradient(aqua,blue);
 
  }
  .footer:hover{
-     box-shadow: 0 0 10px black, 0 0 15px black;
+     box-shadow: 0 0 10px black;
  }
 .footer h3{
     /* font-family: 'Roboto Slab', serif; */
