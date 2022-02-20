@@ -353,6 +353,26 @@ text-align: center;
     box-shadow: 0 0 5px rgb(20, 138, 35),0 0 10px rgb(6, 94, 25);
     font-weight: bold;
 }
+.snake{
+    width:200px;
+    height: 170px;
+    margin:50px;
+    padding: 50px 50px;
+    background-color: white;
+    border: 1px solid black;
+    box-shadow: 0 0 5px rgb(138, 20, 59),0 0 10px rgb(233, 115, 213);
+outline:none;
+transition: .6s ease;
+text-align: center;
+}
+.snake:hover{
+    border-radius:100px;
+    cursor: pointer;
+    background:linear-gradient(rgb(240, 67, 148),rgb(214, 54, 214));
+    box-shadow: 0 0 5px rgb(138, 20, 59),0 0 10px rgb(233, 115, 213);
+   
+    font-weight: bold;
+}
 #contact{
     display:flex;
     flex-direction: column;
