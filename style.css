@@ -238,7 +238,7 @@ align-items: center;
 text-align: justify;
 padding: 10px;
 border-radius: 15px;
-background: linear-gradient(to top, rgb(216, 228, 56)50%, white 50%);
+background: linear-gradient(to top,rgb(4, 69, 85), rgb(148, 230, 233)50%, white 50%);
 background-size: 100% 200%;
 transition: all .8s;
 }
