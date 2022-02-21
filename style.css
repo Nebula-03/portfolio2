@@ -95,7 +95,7 @@ margin: 20px 0px;
 .navbar ul li a:hover{
     background-color: yellow;
     color:black;  
-   box-shadow:0 0 10px yellow;
+   box-shadow:0 0 5px yellow,0 0 10px yellow;
     
 }
 /*Home section*/
