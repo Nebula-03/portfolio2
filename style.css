@@ -93,10 +93,10 @@ margin: 20px 0px;
     float:right;
 }
 .navbar ul li a:hover{
-    background-color: white;
+    background-color: yellow;
     color:black;  
-    box-shadow:0 0 10px blue,0 0 15px rgb(146, 5, 123),0 0 20px rgb(146, 5, 123);
-    border-radius: 50px ;
+   box-shadow:0 0 10px yellow;
+    
 }
 /*Home section*/
 #home{
